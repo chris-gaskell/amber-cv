@@ -1,5 +1,5 @@
 ---
-title: "Chris Gaskell"
+title: "Amber Podmore"
 author: Chris Gaskell
 date: "`r Sys.Date()`"
 output:
@@ -16,15 +16,15 @@ Aside
 ================================================================================
 
 
-![Chris Gaskell](resume.jpg){width=100%}
+![Amber Podmore](https://media-exp1.licdn.com/dms/image/C5603AQERegHF1Z3iCw/profile-displayphoto-shrink_800_800/0/1517509877934?e=1646265600&v=beta&t=k6Q4WN-JI7gh1hnAjusXs65GzVUK24LxlLXwCiKsTxk){width=100%}
 
 
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> chris@indigoneuro.co.uk
-- <i class="fa fa-phone"></i> 07883910093
+- <i class="fa fa-envelope"></i> apodmore93@hotmail.co.uk
+- <i class="fa fa-phone"></i> 
 - For more information, please contact me via email.
 
 
@@ -49,85 +49,79 @@ Disclaimer {#disclaimer}
 Main
 ================================================================================
 
-<p align="center">
-![Chris Gaskell](logo.png){width=40%}
 </p>
 
 
-Dr. Chris Gaskell {#title}
+Amber Podmore {#title}
 --------------------------------------------------------------------------------
 
-### Clinical Psychologist & Honorary Researcher
+### Temporary Accomadation
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### University of Chester
 
-BSc in Psychology
+BSc in Business Management - First Class Honours
 
 Chester, UK
 
-2010-13
+2011-14
 
 Thesis: Demystifying the complexity of psychological flexibility.
 
-### University of Sheffield
+Placement year: NHS accounts worker
 
-DClinPsy In Clinical Psychology
-
-Sheffield, UK
-
-2018-21
-
-Thesis: The effectiveness of psychological interventions in routine settings
-
-Clinical Experience {data-icon=suitcase}
+Work Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Clinical Psychologist
+### Temporary Accomadation Move-on Officer
 
-Salford Royal NHS foundation trust
+Oldham Council
 
 Manchester, UK
 
-2020 - Present
+2019 - Present
 
-- Specialist experience as a trainee critical psychologist, and more recently qualified clinical psychologist in treating individuals who experience functional neurological presentations.
+- blah blah blah blah blah blah blah blah blah blah blah blah
 
-### Psychologist Associate
+### Customer Support Officer
 
-Indigo Neuro
+Guiness Partnership
 
-North-West, UK
+Manchester, UK
 
-2020 - Present
+2016 - 2019
 
--	Carrying out assessment and intervention with children and young people who have experienced brain injuries.
--	Working at a family and systems levels of intervention.
-- Providing clinical leadership to the multi disciplinary team.
--	Preparing and developing training on neuropsychological aspects of brain injury for schools.
+- blah blah blah blah blah blah blah blah blah blah blah blah
+
   
 
-Research Experience {data-icon=laptop}
+Continual Professional Development {data-icon=book}
 --------------------------------------------------------------------------------
 
-### Honorary Researcher 
+### Mental Health Courses
 
-University of Sheffield
+Guiness partnership
 
-Sheffield, UK
+Manchester, UK
 
 2018 - Present
 
-- Regular publisher of peer-reviewed journals concerning the effectiveness of psychological therapy in routine settings.
-- Specialist expertise in practice-based methodologies including single case experimental design, meta-analysis and longitudinal multilevel modeling.
+- Learning about mental health
 
+### head start programme
+
+Teaching designer and facilitator for clinical psychology doctoral trainees & clinical associate psychologists.
+
+Sheffield, UK
+
+2020 - present
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Workshop leader on single case experimental design methodology.
+### head start programme
 
 Teaching designer and facilitator for clinical psychology doctoral trainees & clinical associate psychologists.
 
