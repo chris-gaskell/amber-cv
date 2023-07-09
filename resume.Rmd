@@ -16,7 +16,7 @@ Aside
 ================================================================================
 
 
-![Amber Podmore](https://media-exp1.licdn.com/dms/image/C5603AQERegHF1Z3iCw/profile-displayphoto-shrink_800_800/0/1517509877934?e=1646265600&v=beta&t=k6Q4WN-JI7gh1hnAjusXs65GzVUK24LxlLXwCiKsTxk){width=100%}
+![Amber Podmore](amber.png){width=100%}
 
 
 
@@ -24,20 +24,19 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> apodmore93@hotmail.co.uk
-- <i class="fa fa-phone"></i> 
-- For more information, please contact me via email.
+- <i class="fa fa-phone"></i> 07833988952
+
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in applications of clinical psychology and clinical neuropsychology for a variety of populations.
+- In depth working knowledge of the welfare benefits system: including legacy benefits, Universal Credit and disability benefits.
 
-- Highly experienced in working with people who experience a variety of cognitive, behavioural or emotional difficulties.
+- A non-judgemental, empathatic and person-centred approach to working with clients.
+Experienced in working with vulnerable adults, particularly those who are experiencing homelessness, addiction, mental health issues, physical.
 
-- Specialist experience in working with functional neurological symptoms.
-
-- Experience in working across the lifespan; particularly in young adults, pediatrics, families and working age adults.
+- 5 years experience working in housing and homelessness, in depth understanding of the housing process and policies and ability to guide people through these.
 
 
 Disclaimer {#disclaimer}
@@ -55,7 +54,95 @@ Main
 Amber Podmore {#title}
 --------------------------------------------------------------------------------
 
-### Temporary Accomadation
+### Substance Misuse Programme Officer
+
+Work Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Substance Misuse Programme Officer
+
+Oldham Council
+
+Oldham, UK
+
+Present - August 2022
+
+- Co-ordinate and deliver projects.
+- Manage budgets.
+- Develop working relationships in partnership with local organisations.
+
+### Temporary Accomadation Move-on Officer
+
+Oldham Council
+
+Oldham, UK
+
+July 2022 - March 2020
+
+- Supporting homeless households and families whilst living in temporary
+accommodation.
+- Supporting clients to find move on options that are suitable for them;
+e.g. through the private rent sector, social housing register or supported housing. Assisting with applications, bidding, accepting offers and getting the rent in advance.
+- Raising safeguarding referrals and linking in with other professionals using MDT approach.
+- Property management of council owned temporary accommodation (responsibilities including voids, sign ups, repairs).
+
+### Customer Support Officer
+
+Guiness Partnership
+
+Oldham, UK
+
+March 2020 - March 2018
+
+- Income maximisation and affordability assessments.
+- Work with charities to access grants for low-income and vulnerable
+tenants.
+- Offer support and advice around evictions, focusing on tenancy sustainment.
+
+### Rents Officer
+
+Guiness Partnership
+
+Oldham, UK
+
+March 2018 - March 2016
+
+- Responsible for collection of rent and arrears payments.
+- Chasing late payments and discussing importance of paying rent with
+tenants and consequences.
+- Initiate and attend court for legal proceedings and evictions.
+- Educate and give advice to ensure rent is paid during the roll out of Universal Credit.
+  
+
+Professional Development {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Oldham Council
+
+Training courses
+
+Oldham, UK
+
+Present - 2020
+
+- Adult self neglect and hoarding
+- Housing Law (Shelter)
+- Psychologically Informed Environment training
+- Trauma informed practice
+
+
+
+### Hopwood Hall College
+
+Training courses
+
+Rochdale, UK
+
+2020 - 2017
+
+- NVQ level 2 in Mental Health Awareness
+- NVQ Level 3 in Education and Training
+
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -66,99 +153,28 @@ BSc in Business Management - First Class Honours
 
 Chester, UK
 
-2011-14
+2014 - 2011
 
-Thesis: Demystifying the complexity of psychological flexibility.
+One year on full time work experience placement as Finance Assistant at Countess of Chester NHS hospital.
 
-Placement year: NHS accounts worker
+### Bury College
 
-Work Experience {data-icon=suitcase}
+A Levels: Business Studies: A, Psychology: B, English: B
+
+Bury, UK
+
+2011 - 2009
+
+### Oulder Hill Community School
+
+GCSEs: 11 GCSEs A - C, including Maths: B, English: B, Science: C
+
+Rochdale, UK
+
+2009 - 2004
+
+
+References {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Temporary Accomadation Move-on Officer
-
-Oldham Council
-
-Manchester, UK
-
-2019 - Present
-
-- blah blah blah blah blah blah blah blah blah blah blah blah
-
-### Customer Support Officer
-
-Guiness Partnership
-
-Manchester, UK
-
-2016 - 2019
-
-- blah blah blah blah blah blah blah blah blah blah blah blah
-
-  
-
-Continual Professional Development {data-icon=book}
---------------------------------------------------------------------------------
-
-### Mental Health Courses
-
-Guiness partnership
-
-Manchester, UK
-
-2018 - Present
-
-- Learning about mental health
-
-### head start programme
-
-Teaching designer and facilitator for clinical psychology doctoral trainees & clinical associate psychologists.
-
-Sheffield, UK
-
-2020 - present
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### head start programme
-
-Teaching designer and facilitator for clinical psychology doctoral trainees & clinical associate psychologists.
-
-Sheffield, UK
-
-2020 - present
-
-### Visiting lecturer on working with functional neurological disorders.
-
-Introductory workshop for trainee paramedics concerning functional neurological disorders and non-epileptic attacks.
-
-Edgehill University, UK
-
-2021 - Present
-
-
-Selected Publications {data-icon=file}
---------------------------------------------------------------------------------
-
-### Effectiveness of the unified protocol for treating co-morbid health anxiety and depression: an empirical case study
-
-Behavioural and Cognitive Psychotherapy. 2021;(in press).
-
-N/A
-
-2021
-
-**Gaskell, C**, Hague, B, Kellett, S.
-
-### Effectiveness of transdiagnostic seminars to support patients with common mental disorders: a multi-service practice research network study
-
-Behavioural and Cognitive Psychotherapy. 2021;49(4), 495-507.
-
-N/A
-
-2021
-
-**Gaskell, C**, Askey-Jones, R, Groom, M. Delgadillo, J.
-
-
+### Availabe on request
